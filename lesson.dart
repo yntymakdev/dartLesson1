@@ -13,9 +13,10 @@
 //   students.add("Chika");
 //   print(students);
 // }
-
-void main() {
-  final classes = <String, double>{"ass": 3.2, "yes": 2.9};
-  classes["As"] = 3;
-  print(classes.keys.toList());
-}
+q
+// void main() {
+//   final classes = <String, double>{"ass": 3.2, "yes": 2.9};
+//   classes["As"] = 3;
+//   print(classes.keys.toList());
+//   print(classes.values.toList());
+// }zz
