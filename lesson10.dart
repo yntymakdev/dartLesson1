@@ -6,15 +6,17 @@
 
 //! while
 
-void main() {
-  final result = square(5);
-  print(formatResult(result));
-}
+// void main() {
+//   final result = square(5);
+//   print(formatResult(result));
+//   final result1 = square(10);
+//   print(formatResult(result1));
+// }
 
-int square(int number) {
-  return number * number;
-}
+// int square(int number) {
+//   return number * number;
+// }
 
-String formatResult(int number) {
-  return 'Result of nana: $number';
-}
+// String formatResult(int number) {
+//   return 'Result of nana: $number';
+// }
